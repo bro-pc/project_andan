@@ -1,0 +1,12 @@
+column,unique_values,top_value,top_value_share
+job,12,admin.,0.25303486452364765
+marital,4,married,0.6052248227639119
+education,8,university.degree,0.29542585218995826
+default,3,no,0.7912013207730407
+housing,3,yes,0.5238418956977761
+loan,3,no,0.8242692046227057
+contact,2,cellular,0.6347479848499563
+month,10,may,0.3342963970088375
+day_of_week,5,thu,0.2093570942993105
+poutcome,3,nonexistent,0.8634310964358551
+y,2,no,0.8873458288821987
