@@ -29,9 +29,3 @@
 - `outputs/figures` - графики
 - `outputs/tables` - таблицы
 - `presentation` - финальная презентация
-
-## Как запустить
-
-```bash
-pip install -r requirements.txt
-jupyter notebook
